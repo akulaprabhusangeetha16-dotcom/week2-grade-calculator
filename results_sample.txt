@@ -1,2 +1,0 @@
-{'name': 'John Smith', 'average': 88.3, 'grade': 'B', 'comment': 'Very Good '}
-{'name': 'Sarah Johnson', 'average': 81.3, 'grade': 'B', 'comment': 'Very Good '}
